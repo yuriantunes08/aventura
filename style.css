@@ -1,0 +1,17 @@
+body{
+    background-color: blue;
+    color: aqua;
+     font-family: "Bungee", sans-serif;
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     height: 70px;
+     margin: 0;
+}
+
+button{
+    background-color: fuchsia;
+    color: aqua;
+     font-family: "Bungee", sans-serif;
+}
+    
